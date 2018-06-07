@@ -7,6 +7,6 @@
 
 [graded_assignment_2](https://github.com/Luuk1998/Assignments/blob/master/Graded_assignment_2%20(2).ipynb)
 
-[Final_Python_Assignment]
+[Final_Python_Assignment](https://github.com/Luuk1998/Assignments/blob/master/exam_june_7_2018.ipynb)
 
 [Final_R_Assignment]
