@@ -6,3 +6,7 @@
 [graded assignment 1](https://github.com/Luuk1998/Assignments/blob/master/Graded_assignment1%20(2).ipynb)
 
 [graded_assignment_2](https://github.com/Luuk1998/Assignments/blob/master/Graded_assignment_2%20(2).ipynb)
+
+[Final_Python_Assignment]
+
+[Final_R_Assignment]
